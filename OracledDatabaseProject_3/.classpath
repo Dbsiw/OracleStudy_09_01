@@ -6,8 +6,9 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="src" path="src"/>
-	<classpathentry kind="lib" path="C:/javaDev/ojdbc8.jar"/>
 	<classpathentry kind="lib" path="C:/OracleDev/eclipse/lombok.jar"/>
+	<classpathentry kind="lib" path="C:/javaDev/jsoup-1.21.1.jar"/>
+	<classpathentry kind="lib" path="C:/javaDev/ojdbc8.jar"/>
 	<classpathentry kind="lib" path="C:/Users/sist/Downloads/db.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
